@@ -156,7 +156,7 @@ void results(int K, int L, int n)
     {
         //std::cout<<std::dec<<i<<"\n";
         int count = 0;
-        string random = generateRandomBytes(n);
+        string random = generateRandomBytes(256/8);
         string has = sha224(random,n);
         string x = buildAttack(table,index,has,K,L,n,count);
         if( x != "PROBLEMS")
@@ -194,11 +194,11 @@ int main() {
 
 //
     int n = 32 /8;
-////
-//    int K00 = pow(2,20);
-//    int L00 = pow(2,10);
 //
-//    results(K00, L00,n);
+    int K00 = pow(2,20);
+    int L00 = pow(2,10);
+
+    results(K00, L00,n);
 //
 //    int K01 = pow(2,20);
 //    int L01 = pow(2,11);

@@ -67,12 +67,18 @@ std::string generateRandomBytes(int numBytes) {
 
 void R(std::string& x,const std::string& r,int n)
 {
+
+
+
     x = r + x;
+
+
 }
 #include <chrono>
 #include <omp.h>
 #include <unordered_map>
 #include <map>
+#include <utility>
 
 vector<tuple<string,string>> buildTablePrecalculation(int K, int L, int n, const string& r)
 {
@@ -84,7 +90,7 @@ vector<tuple<string,string>> buildTablePrecalculation(int K, int L, int n, const
     {
         string xi0 =  generateRandomBytes(n);
         string xij = xi0;
-        for(int j = 0; j < L; ++j)
+        for(int j = 0; j < L ; ++j)
         {
             R(xij,r,n);
             xij = sha224(xij,n);
@@ -100,7 +106,7 @@ vector<tuple<string,string>> buildTablePrecalculation(int K, int L, int n, const
 
 string buildAttack(vector<tuple<string,string>>& table, unordered_map<string, int>& index, string ha, int K, int L, int n, int& countY,string r)
 {
-    string y = ha;
+    string y = std::move(ha);
 
     for(int j = 0; j < L; ++j)
     {
@@ -136,7 +142,7 @@ void results(int K, int L, int n)
     #pragma omp parallel for
     for(int i = 0; i < K; ++i)
     {
-        rK[i] = (generateRandomBytes(n));
+        rK[i] = (generateRandomBytes((128)/8-n));
         tableK[i] = (buildTablePrecalculation(K,L,n,rK[i]));
         //std::cout<<i<<" "<<K<<"\n";
     }
@@ -148,14 +154,16 @@ void results(int K, int L, int n)
     std::cout << "Time taken by function: " <<duration.count()<<" "<<double( duration.count())/double(60000000) << " microseconds" << std::endl;
     std::cout<<"K TABLES BUILDED\n";
     vector<unordered_map<string, int>> indexK;
-    for(auto &table: tableK)
+    for(int j = 0; j < K; ++j)
     {
+        unordered_map<string, int> index;
+
         for(int i = 0; i < K; ++i)
         {
-            unordered_map<string, int> index;
-            index[get<1>(table[i])] = i;
-            indexK.push_back(index);
+            index[get<1>(tableK[j][i])] = i;
+
         }
+        indexK.push_back(index);
     }
 
 
@@ -169,7 +177,7 @@ void results(int K, int L, int n)
     {
         //std::cout<<std::dec<<i<<"\n";
         int count = 0;
-        string random = generateRandomBytes(n);
+        string random = generateRandomBytes(256/8);
         string has = sha224(random,n);
         bool matchFound = false;
         #pragma omp parallel for
@@ -177,11 +185,8 @@ void results(int K, int L, int n)
         {
             if (!matchFound)
             {
-                string x = buildAttack(tableK[k], indexK[k], has, K, L, n, count, rK[k]);
-
-                #pragma omp critical
-                {
-                    if (!matchFound && x != "PROBLEMS" && sha224(x, n) == has) {
+                    string x = buildAttack(tableK[k], indexK[k], has, K, L, n, count, rK[k]);
+                    if (x != "PROBLEMS" && sha224(x, n) == has) {
                         results[i] += 1;
                         std::cout << "g = ";
                         coutByteToHex(random);
@@ -194,11 +199,12 @@ void results(int K, int L, int n)
                         std::cout << std::dec << "\n"
                                   << "кількість різних значень y:" << count;
                         std::cout << "\n";
-                        matchFound = true;  // Set the flag to exit the loop
+                          // Set the flag to exit the loop
+                        matchFound = true;
                     }
-                }
             }
         }
+
         }
     std::cout<<"RESULTS:\n";
     for(auto i: results)
@@ -216,53 +222,52 @@ int main() {
 
 
 //
-    int n = 16 /8;
+    int n = 32 /8;
 
-    int K00 = pow(2,5);
-    int L00 = pow(2,5);
+    int K00 = pow(2,10);
+    int L00 = pow(2,10);
 
     results(K00, L00,n);
 
-    int K01 = pow(2,5);
-    int L01 = pow(2,6);
+    int K01 = pow(2,10);
+    int L01 = pow(2,11);
 
     results(K01, L01,n);
 
-    int K02 = pow(2,5);
-    int L02 = pow(2,7);
+    int K02 = pow(2,10);
+    int L02 = pow(2,11);
 
     results(K02, L02,n);
 
-    int K10 = pow(2,6);
-    int L10 = pow(2,5);
+    int K10 = pow(2,11);
+    int L10 = pow(2,10);
 
     results(K10, L10,n);
 
-    int K11 = pow(2,6);
-    int L11 = pow(2,6);
+    int K11 = pow(2,11);
+    int L11 = pow(2,11);
 
     results(K11, L11,n);
 
-    int K12 = pow(2,6);
-    int L12 = pow(2,7);
+    int K12 = pow(2,11);
+    int L12 = pow(2,12);
 
     results(K12, L12,n);
 
-    int K20 = pow(2,7);
-    int L20 = pow(2,5);
+    int K20 = pow(2,12);
+    int L20 = pow(2,10);
 
     results(K20, L20,n);
 
-    int K21 = pow(2,7);
-    int L21 = pow(2,6);
+    int K21 = pow(2,12);
+    int L21 = pow(2,11);
 
     results(K21, L21,n);
 
-    int K22 = pow(2,7);
-    int L22 = pow(2,7);
+    int K22 = pow(2,12);
+    int L22 = pow(2,12);
 
     results(K22, L22,n);
-
 
     return 0;
 }

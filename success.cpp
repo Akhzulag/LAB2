@@ -15,12 +15,12 @@ void theor( double m, double t)
             sum += temp;
             temp *= temp1;
         }
-        sum/=N;
+
     }
 
-    std::cout << "final" << std::endl;
-    std::cout << std::endl;
-    std::cout <<100*sum <<"\\\%"  << std::endl;
+//    std::cout << "final" << std::endl;
+//    std::cout << std::endl;
+//    std::cout <<100*sum <<"\\\%"  << std::endl;
 
     std::cout<<"for K tables:\n";
     std::cout<<(1 - pow(1-sum/N,t))*100<<"\\\%"<<"\n\n";
@@ -28,9 +28,9 @@ void theor( double m, double t)
 
 int main() {
 
-    theor(pow(2,20), pow(2,12));
-    theor(pow(2,22), pow(2,12));
-    theor(pow(2,24), pow(2,12));
+    theor(pow(2,10), pow(2,12));
+    theor(pow(2,11), pow(2,12));
+    theor(pow(2,12), pow(2,12));
     return 0;
 }
 
