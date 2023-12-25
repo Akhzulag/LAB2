@@ -1,0 +1,558 @@
+/Users/akhzulag/Desktop/KPI/4grade/1s/HASHLABS/LAB2/cmake-build-debug/LAB2
+K: 32; L: 32
+Time taken by function: 4488 7.48e-05 microseconds
+K TABLES BUILDED
+MAPS BUILDED
+g = d18b
+h(g) = 1fdb73a07ff4bd38acdc47bcdebafa59d5ef9b2fceb106b30392ef2a
+x = 5871118e
+sha_224(x) = 340dcd451ede781add32bdc262ef935417337b9fddbb8e020f2bef2a
+
+кількість різних значень y:15
+g = d18b
+h(g) = 1fdb73a07ff4bd38acdc47bcdebafa59d5ef9b2fceb106b30392ef2a
+x = 5871118e
+sha_224(x) = 340dcd451ede781add32bdc262ef935417337b9fddbb8e020f2bef2a
+
+кількість різних значень y:15
+RESULTS:
+K: 32; L: 32
+кількість успіхів 2
+0.02%K: 32; L: 64
+Time taken by function: 7336 0.000122267 microseconds
+K TABLES BUILDED
+MAPS BUILDED
+g = 382c
+h(g) = 4efeff6d305e7568a4fffd730678c6247a2632efaea3b9667057320c
+x = 689e8f38
+sha_224(x) = 8ec51612c72a933872c1f9b07b968a692bd9c54be822f83bdf0a320c
+
+кількість різних значень y:4
+g = 77ab
+h(g) = db15f35fda28672e354a483c0908c259f57c9db0ca20b2c7e188936b
+x = 689eb834
+sha_224(x) = ec2ff4ab29b4a1722f002621d4740ab139d9936daeee430ac861936b
+
+кількість різних значень y:11
+g = ac30
+h(g) = 41a8ace8a14d13b83e6878f003a001c191c510b7c6355b737fc536c6
+x = 689e1971
+sha_224(x) = f022b8aa1104feee1d17289a99e318425a7e9cd7dfa0d5b4c7cc36c6
+
+кількість різних значень y:9
+g = 9eae
+h(g) = 1c5947e966f887f81a630adf13903f1fbfefae6efbfe468de0e227f6
+x = 689e721f
+sha_224(x) = 099cd35fbe0eff1792d016bad9b21d11565442352ddffe12a87d27f6
+
+кількість різних значень y:44
+g = e015
+h(g) = f31fc7d022335ddb7c55671b0232250cbceac67f0c92514a325785a0
+x = 689eecf6
+sha_224(x) = 6f717213c852ad7d120ca990c23f751583767b42fde6f0a16f8485a0
+
+кількість різних значень y:34
+g = ba0f
+h(g) = b9221029b46faba048a5f0e890a4b9da1a9b935e3071ccfbfec5bdc8
+x = 689e414a
+sha_224(x) = fa940cac09335e4c3c6e46eb57ba480c56bd313b65a944bd9e02bdc8
+
+кількість різних значень y:17
+g = 9d7a
+h(g) = c0990b307f38c71a7f66bfcb74a7910aa2fb14085fc7679ab1e3c73c
+x = 689e4fe7
+sha_224(x) = a5a030dc382cc3d1de6ed9f56f0d692fe299045dab794abf0583c73c
+
+кількість різних значень y:29
+g = 3822
+h(g) = 2c50559d411fa40e3de3a690d37174dc36055adc110ca32ae4d2e3e4
+x = 689ee023
+sha_224(x) = d0140eab9ff82a0d2c39fa03bb4758c2744c3d44ac641bdc87dfe3e4
+
+кількість різних значень y:47
+g = 41ba
+h(g) = 7cb175b716fde5fb09003dfde5ebaa9aadcc7aeb807cacc192e83e0a
+x = 689eac81
+sha_224(x) = 111ec598235c32f8120bc07ecb8ea5796cb3c5dcb8d7369b65f23e0a
+
+кількість різних значень y:0
+RESULTS:
+K: 32; L: 64
+кількість успіхів 9
+0.09%K: 32; L: 128
+Time taken by function: 13302 0.0002217 microseconds
+K TABLES BUILDED
+MAPS BUILDED
+g = 165d
+h(g) = 2619db988a83d4b3976a127b36ea239e66bbfd9612de4ecbfc107c06
+x = be13d00a
+sha_224(x) = c07396dc018f8a9ec05588d43731a40ae83b59edcef8109e7c3d7c06
+
+кількість різних значень y:82
+g = 610c
+h(g) = 01967ca229076a6ae114fe93259645ff6ad9a164b41f0a198a260c3a
+x = be138a62
+sha_224(x) = e86923c991bdba5a5739f51cedc0fa40bed4aac01fb0b09e10d40c3a
+
+кількість різних значень y:23
+g = 4e5b
+h(g) = b8a9a72d33a7a902f9a3ed81dba6b7ab04b7c39472e6d3c1e686147a
+x = be1317b2
+sha_224(x) = 3803bc21442780ea87ce3b2feefe6744aca9ae513a878eb4fc65147a
+
+кількість різних значень y:79
+g = 38a9
+h(g) = eb01cc7924f4fdd9cff5245a2e3b27f739fb6a55d63fc3af605496ea
+x = be13ca26
+sha_224(x) = 7891e8f5fc6fc9b66d13dbc06f2a9af82bae2291c270c137c83c96ea
+
+кількість різних значень y:123
+g = 7187
+h(g) = 630587547e32eb2f4eededec43f1ce4115ad9204ffded40a951ed32b
+x = be13018f
+sha_224(x) = 42866ba7ab47dceab79236ddd382209ed9a390aa3ec22b247831d32b
+
+кількість різних значень y:98
+g = 4e5b
+h(g) = b8a9a72d33a7a902f9a3ed81dba6b7ab04b7c39472e6d3c1e686147a
+x = be1317b2
+sha_224(x) = 3803bc21442780ea87ce3b2feefe6744aca9ae513a878eb4fc65147a
+
+кількість різних значень y:79
+g = b407
+h(g) = c516563f0cbe381fef85e33697c2c11307c0e150243a3644bc58647e
+x = be139267
+sha_224(x) = cf322462b9babb11fb4798158ec64b621c9950ccbe6460413937647e
+
+кількість різних значень y:51
+g = 2926
+h(g) = 60e80ac4725409677c634a776c76e2686f785d18776832e013348ea8
+x = be1329fd
+sha_224(x) = 95478129c8c882452f27812316ab1cc571baf795c0427deabfd78ea8
+
+кількість різних значень y:107
+g = 2e83
+h(g) = 414027beba19936c3c661fd9be69a51e06849418f9edee8a2fcb84a1
+x = be132731
+sha_224(x) = 3a5d425d1b42b1fea8a28a9c1d0ab64ec2b92286d595c448631384a1
+
+кількість різних значень y:84
+g = 6e66
+h(g) = fc1909248e9a22dd8718eb5a54f6bbe233d06830de49b1b352180c3a
+x = be138a62
+sha_224(x) = e86923c991bdba5a5739f51cedc0fa40bed4aac01fb0b09e10d40c3a
+
+кількість різних значень y:23
+RESULTS:
+K: 32; L: 128
+кількість успіхів 10
+0.1%K: 64; L: 32
+Time taken by function: 15474 0.0002579 microseconds
+K TABLES BUILDED
+MAPS BUILDED
+g = e418
+h(g) = c4c2d31e5954b921553cb4b998ef6d1dfc4964a34baebb6c3fed49cb
+x = 2a3fe110
+sha_224(x) = 58b71d5c31abf293ec7c272ea0cd9e4ca68de3e555c6805d746349cb
+
+кількість різних значень y:2
+g = 132a
+h(g) = c04dd6e009d5f3900e9434759cfa5eb882a95e899d46602103712269
+x = 2a3f1e48
+sha_224(x) = ab39f81fd738929c0c78adda3acb3a5bd9fb8acc6d5b3fed9da72269
+
+кількість різних значень y:26
+g = 307e
+h(g) = 518ced19f2abb61c0bd91d37c8686ae23e180b4f2450b07b32bb9c41
+x = 2a3f360d
+sha_224(x) = a05e2345fba2bf928fcba1f28ec34181fd2a4b4c7719bf02f9ec9c41
+
+кількість різних значень y:4
+g = 5076
+h(g) = 9e5470765bd9c3b1c9b4d423a2a80993cfa07e35f3d0b25b07c4d07b
+x = 2a3f2269
+sha_224(x) = 714ecc5e80024b11187e935ad3b8a25329c4fb59cc0b523406bad07b
+
+кількість різних значень y:25
+g = 02ce
+h(g) = 8bd20bfbbe10f31612a84d668f32b06c3f8ce2d1fe06a7238f4504af
+x = 2a3f49cb
+sha_224(x) = 5c4b722437b81cad2ee8caf4e6c04a49f3fc7e7f723934082e0104af
+
+кількість різних значень y:1
+g = 9441
+h(g) = 4327ca9e2e66dc7c200b73c9cbf1ac11ec9484c66b0cfb9ba268c7fb
+x = 2a3f9cd4
+sha_224(x) = c6b85dee85a5c3e4926713d9ccebfc53e4494ef10f6bc3cc5c8ec7fb
+
+кількість різних значень y:14
+g = 5a4e
+h(g) = 4d8d03a7a765703dfcc1c3248de27cf2f2a95d0119a2d0f4b28d0fb1
+x = 2a3f301c
+sha_224(x) = b0f5c17e428aaf3c2cbf3794f5e4065b0af7df22541b88cb89c80fb1
+
+кількість різних значень y:7
+g = 342c
+h(g) = b6faa982096f95df7e5bc299ad449167291de8309495c9d479393d6d
+x = 2a3f0e3d
+sha_224(x) = 551ba398c7b8fb5d1fe84a8baa968a6234203701e2477d013f993d6d
+
+кількість різних значень y:10
+g = b52e
+h(g) = fa44ef66ac48841db61e6b7809e58d4da690df8812b2062d0e539c41
+x = 2a3f360d
+sha_224(x) = a05e2345fba2bf928fcba1f28ec34181fd2a4b4c7719bf02f9ec9c41
+
+кількість різних значень y:4
+RESULTS:
+K: 64; L: 32
+кількість успіхів 9
+0.09%K: 64; L: 64
+Time taken by function: 22650 0.0003775 microseconds
+K TABLES BUILDED
+MAPS BUILDED
+g = c369
+h(g) = 25f31b92eccde890a2849d08fb8c4fe53eb37341f423c8d958e0cbd0
+x = 533638ff
+sha_224(x) = 67d436de462002f0bf4d80a805e4a793c948540a5f31d726487ccbd0
+
+кількість різних значень y:0
+g = 1957
+h(g) = 744d77d1087bcab9be30fc503d5f13c6868c5e4a323558224e7c6840
+x = 5336ff86
+sha_224(x) = ffc3489e3d166805bb909e74c23016e05fa0b98fb35b26bbc3d86840
+
+кількість різних значень y:31
+g = 225b
+h(g) = 2bf916ec3373b1bc314dcc95863861acd88c6c67358b6ba327175f7d
+x = 53365a4e
+sha_224(x) = e59fab82c93b48b99c113cbc686a33ae3487e4e4eed245e521925f7d
+
+кількість різних значень y:24
+g = 61c9
+h(g) = 605576609fe38dbacdba04574efb432dc8053adcc2ed7d42cd425f7d
+x = 53365a4e
+sha_224(x) = e59fab82c93b48b99c113cbc686a33ae3487e4e4eed245e521925f7d
+
+кількість різних значень y:24
+g = c721
+h(g) = b3a340a57bce179567b1a762766ade924a195d618aa3b5d548e4bbff
+x = 5336bf85
+sha_224(x) = 04f8dbc09aafc4c7575b369e9cc7d861d244a18dbb49bec5cab7bbff
+
+кількість різних значень y:53
+g = ad86
+h(g) = 1055f93f6accc49fe0902cae4cd3da96235e3cd47208f335fec01cb4
+x = 5336fe81
+sha_224(x) = 3b70ddf549bff11e9ec6d0d2d4410348d53d14e44813fca050fc1cb4
+
+кількість різних значень y:56
+g = 17b4
+h(g) = 6555793b27df81fb272f17ffd09804eda7fa416409207d032c8aa8e8
+x = 53362201
+sha_224(x) = 0e421895030e84bd15a6fd454f11dffdb6932fe8ff98ff289f3da8e8
+
+кількість різних значень y:11
+g = ad86
+h(g) = 1055f93f6accc49fe0902cae4cd3da96235e3cd47208f335fec01cb4
+x = 5336fe81
+sha_224(x) = 3b70ddf549bff11e9ec6d0d2d4410348d53d14e44813fca050fc1cb4
+
+кількість різних значень y:56
+g = 1b34
+h(g) = 6dd8458ea371f29e5fd8e96b355a1af86818aa3e5f982e9087cf0231
+x = 5336a7b0
+sha_224(x) = 98ece83d234d4c574bbc39a613aa7e10dfc6f71a5d8385ab47280231
+
+кількість різних значень y:41
+g = c721
+h(g) = b3a340a57bce179567b1a762766ade924a195d618aa3b5d548e4bbff
+x = 5336bf85
+sha_224(x) = 04f8dbc09aafc4c7575b369e9cc7d861d244a18dbb49bec5cab7bbff
+
+кількість різних значень y:53
+g = 5860
+h(g) = 82187053687ff8a65ab23122fe3355c4037cd26951c34c976d4ea8e8
+x = 53362201
+sha_224(x) = 0e421895030e84bd15a6fd454f11dffdb6932fe8ff98ff289f3da8e8
+
+кількість різних значень y:11
+RESULTS:
+K: 64; L: 64
+кількість успіхів 11
+0.11%K: 64; L: 128
+Time taken by function: 42070 0.000701167 microseconds
+K TABLES BUILDED
+MAPS BUILDED
+g = f319
+h(g) = f79a16660c037f4dd7b68b4dbbd389ff46fe710e7d33303d2b1025e8
+x = cafea2e0
+sha_224(x) = e2a9311e9acbef4bb28736c6762acb42008b57e230f958666b9a25e8
+
+кількість різних значень y:16
+g = e5df
+h(g) = 2a363b8cfe9a8df422e44504289614ec02a9b0a3df7c3d49ca19560f
+x = cafedd90
+sha_224(x) = 6e6c62ff028f8a8dc9efa6cb5c42489b2a52fa406829ed273b52560f
+
+кількість різних значень y:37
+g = c678
+h(g) = 06374975497dd736febbf84f98f86b3adb4090713deac9af5d724ebe
+x = cafe7b0e
+sha_224(x) = 92fed8c1af6e824e7e3b123bf5547fc6d5e2cfc5b2d3391d59134ebe
+
+кількість різних значень y:42
+g = 3eea
+h(g) = 6416468484160c6a2d01fcb2e1efc64c73308692891a42332d1643a0
+x = cafe5114
+sha_224(x) = 9ef2fccadc9ce5613147355c74ea674881cc08eebfb0c121083e43a0
+
+кількість різних значень y:35
+RESULTS:
+K: 64; L: 128
+кількість успіхів 4
+0.04%K: 128; L: 32
+Time taken by function: 46657 0.000777617 microseconds
+K TABLES BUILDED
+MAPS BUILDED
+g = e548
+h(g) = ff8bc34d849bcb09c32adfd34874019bd0ff61affbcdd48a143445fa
+x = 263e3714
+sha_224(x) = dd158fb52fd3f7d5de16a9ea5224c43ab15ef25e3c5c4f924d3045fa
+
+кількість різних значень y:11
+g = 2764
+h(g) = ddb0374da863331264e443dc347c6aa1f5ec073bde66506f8e605cc8
+x = 263e5261
+sha_224(x) = fce23a1855959260b9ee37ba211da8a3691c58d16c33dcffd4475cc8
+
+кількість різних значень y:21
+g = cb2f
+h(g) = 3532c1bbd3dddf812cf7493d6fbeda8d5aebc1fe88ac09baf27aa044
+x = 263e77fc
+sha_224(x) = edc981b1358b34db5967f207cb5364c00b7e7e2bf649ec4c1d09a044
+
+кількість різних значень y:28
+g = f329
+h(g) = bd4a876d6deea4df815ee8f9ae7edc90dbcca64c664a017003b29057
+x = 263e5cd7
+sha_224(x) = 744c866f2fea5828df595054ebf9f093dc24d3d5ab33c833811b9057
+
+кількість різних значень y:24
+g = 75a2
+h(g) = 999da5a8ee797506e22672fdd92c463c59b2a988f9b8e4efdea3a044
+x = 263e77fc
+sha_224(x) = edc981b1358b34db5967f207cb5364c00b7e7e2bf649ec4c1d09a044
+
+кількість різних значень y:28
+RESULTS:
+K: 128; L: 32
+кількість успіхів 5
+0.05%K: 128; L: 64
+Time taken by function: 67830 0.0011305 microseconds
+K TABLES BUILDED
+MAPS BUILDED
+g = 4138
+h(g) = 27ce55a8e24503e7a11cbbbef117cded86ffcde3708fc0c86ae41589
+x = e8bccce2
+sha_224(x) = b7addf0a37edd9930c316d288fecee04b7aaad41a269904224d81589
+
+кількість різних значень y:50
+g = c8b6
+h(g) = 778d8379411a26be6f82e7987dd0292076584baa5e25f1bc922a9f1e
+x = e8bc29f0
+sha_224(x) = 6f3cad79c0ec6ea78b8ea5a88191fbcdcf514a351ea190c06a0f9f1e
+
+кількість різних значень y:36
+g = ac1e
+h(g) = 95583adeb928248e6904c4cde4c696f71db7ac8d3f1ba4b5905fa54b
+x = e8bcbafc
+sha_224(x) = 4ed1c82436f1cff715543a74340068efa3ad55d80aaab2fa481aa54b
+
+кількість різних значень y:17
+g = 4972
+h(g) = d7902763c956918e4aa4cb7f25de2e8bb2032290ff66a633e5b0cce2
+x = e8bcaccd
+sha_224(x) = 7497a4e053086580423bda3edcf723efacdc5cabaa4b68eb2ea9cce2
+
+кількість різних значень y:51
+g = b3a9
+h(g) = 9a878fbc09a564f63d7b34367ba5939f30f91feb1833f20e52507a45
+x = e8bc90cd
+sha_224(x) = e97c7a03b9e23c8a1ea8116c567760237eb0772182283d31f5107a45
+
+кількість різних значень y:40
+g = 9f23
+h(g) = c4aa433f44a937671064635d79dfeb3524407494ec1e12a8ccbbcbc9
+x = e8bce532
+sha_224(x) = fb3f8e61d2cecd10a63ccf1fbb6f0ea32bd39f955784f9cde645cbc9
+
+кількість різних значень y:23
+g = 649c
+h(g) = 6d392d7c48f3f2b51929d1788e3ca49a3019d109c77a0ab3f60edc20
+x = e8bc0488
+sha_224(x) = b6bac7665aa5486a4ab84a8a3ed47642c45f6236a12c600fd418dc20
+
+кількість різних значень y:45
+g = dda9
+h(g) = 36e4226b9ba2bc815322493bc7b8b9f3b463c28ebe4bea3d0699f9e0
+x = e8bcbc8b
+sha_224(x) = aa137387e10724dc547d4d92b2990f593da1b9928c279a887b3bf9e0
+
+кількість різних значень y:57
+g = c814
+h(g) = 8d87bda55e98c6a5b070d4f6116a3f51b54d7c16b35672fd5c663e4b
+x = e8bcfb77
+sha_224(x) = 3f5d9e12f89f0d9b83fc425f658646ecd4f8c98f5c92f38f2abd3e4b
+
+кількість різних значень y:5
+g = 7bf7
+h(g) = 7d1448091a1804834f71fdfc96283891cc1e96bd6c68233988e3cbc9
+x = e8bce532
+sha_224(x) = fb3f8e61d2cecd10a63ccf1fbb6f0ea32bd39f955784f9cde645cbc9
+
+кількість різних значень y:23
+g = 234d
+h(g) = 94a3fff08c93483ab5c1d4c4ca433fd009980e2c01d777075de8b5a3
+x = e8bcb526
+sha_224(x) = e74cbf45c69a5672d5e50b6a219872911e78dca978ed7a74a412b5a3
+
+кількість різних значень y:47
+RESULTS:
+K: 128; L: 64
+кількість успіхів 11
+0.11%K: 128; L: 128
+Time taken by function: 116559 0.00194265 microseconds
+K TABLES BUILDED
+MAPS BUILDED
+g = 14ee
+h(g) = 5e7241229d5235d3542055ba449f8e8d79557dbf9d03b1c177e7f5fe
+x = 6d29ea5c
+sha_224(x) = cd4d772ef6523b08ef89504eaef064ac603c96aa26fa3369d994f5fe
+
+кількість різних значень y:80
+g = fecc
+h(g) = 58b975a43db8c3540b96080092a68a5edc783dee4cf3aa870b2fc884
+x = 6d2910fc
+sha_224(x) = 10b6ba29f1891a58fbc2e6a36810da8061e713fc91d7189b76fac884
+
+кількість різних значень y:113
+g = 3d2f
+h(g) = 3e6ad70fd35e8b8fd03fc234e2fea240d4a1907e4cf0829f6d27e313
+x = 6d291332
+sha_224(x) = 608392d39e7451d280a5174b857708b824bfcf5707ce8dae6ca7e313
+
+кількість різних значень y:121
+g = 9886
+h(g) = 107a26814b3553e3b7918d284da8140a2c0b208278b33be96c23e2d4
+x = 6d29b20f
+sha_224(x) = 709600fb215720460162141adf25c1457480dc14c9daa46d7b39e2d4
+
+кількість різних значень y:84
+g = af82
+h(g) = fc778c740aa0e4f348440f2a6f46be88b71ebb33e61a331114b0df1b
+x = 6d29c73e
+sha_224(x) = dfd1d64963a70fd48e321f4ecad8662cd94e640119de4d6614eddf1b
+
+кількість різних значень y:21
+g = 2eaa
+h(g) = 059f2eb51d917936c73e5eefe4c232d197b010bb76bdbe60643ed0b3
+x = 6d292869
+sha_224(x) = dfab29245e6333b314cc194983ff4a13070b07250865bcdfb768d0b3
+
+кількість різних значень y:86
+g = 4d48
+h(g) = fef1e01ca3e3330030c90ffc9687ae6bec66b749ce23a829076c15a4
+x = 6d2962b2
+sha_224(x) = 9a0896c6a21adce322d65b2aaddfaf6968fed0361d5d508f76eb15a4
+
+кількість різних значень y:42
+g = 0ed5
+h(g) = 8421b74f1eac4c76da3f8fbdb298c3592625140146d6c3682ad0a047
+x = 6d295598
+sha_224(x) = 527fb5aa64238766dd59d167a98869416809091a55d91c0dff5fa047
+
+кількість різних значень y:60
+g = 8d0b
+h(g) = ed7803c69ae21a91e799e22207cc664558edff9ae429a1102f9dd0b3
+x = 6d292869
+sha_224(x) = dfab29245e6333b314cc194983ff4a13070b07250865bcdfb768d0b3
+
+кількість різних значень y:86
+g = 8d0b
+h(g) = ed7803c69ae21a91e799e22207cc664558edff9ae429a1102f9dd0b3
+x = 6d292869
+sha_224(x) = dfab29245e6333b314cc194983ff4a13070b07250865bcdfb768d0b3
+
+кількість різних значень y:86
+g = b666
+h(g) = 9c9a853c0a0a926b2ecfa8d5d7cce07d9bb5376775700ac415a9c461
+x = 6d29ea7f
+sha_224(x) = 43c3bb47696d8f16379a94c2dd7bae963ed6cc298f7b5f647cb0c461
+
+кількість різних значень y:53
+g = 62b4
+h(g) = edee7dcbba94138e0ab89890580b28ed5ea7ba464e609317f14b3fa2
+x = 6d29c3fa
+sha_224(x) = d04474dded470cf4a1fd9c9c7bbf9f92115116af23b8dd27a85a3fa2
+
+кількість різних значень y:99
+g = 6e9b
+h(g) = fc6b951571c59ab2bdef830bca1d195955ec2fa3bc042dd97a82cb3e
+x = 6d291a6d
+sha_224(x) = c479b889dc216edbc82a45568109ec8c50d85a2befb6666c6777cb3e
+
+кількість різних значень y:127
+g = 2a4a
+h(g) = a279fedc004e7e8b5cb10c96337bf0b03444b9c22ed70e49a8a71218
+x = 6d29ece0
+sha_224(x) = c2dc1ba8e8d00183392a29622d14cf0d48423ff8e40562cdd6491218
+
+кількість різних значень y:66
+g = 2bfe
+h(g) = cb2a7b0f3bcb0346e3bd646e42d4fba853fc9901e6a759fce9816bd5
+x = 6d29911d
+sha_224(x) = f4dab93f3d45d47ff378e564f48378ad2fefa69b5ac3043e25246bd5
+
+кількість різних значень y:107
+g = 2d21
+h(g) = 89f256d1e12cbfa7613ad771501fdac2cd55dd520b9c554d4a6125bd
+x = 6d29d90e
+sha_224(x) = 13e7d4719e05ead3ab87b352a9d05ef8aa60fdebda55552219e325bd
+
+кількість різних значень y:23
+g = 7594
+h(g) = 3aa994749fb8703704a0476160b0dab56c40512982c27ff50d66b20f
+x = 6d29d0b3
+sha_224(x) = 6f4a91ec25a1690673ea4f17c9ecaf589d9852f65492bc84d472b20f
+
+кількість різних значень y:85
+g = bc5b
+h(g) = e2c82877bd8aa3f81a249e063692acca55d88301237a7533b4dfa5d1
+x = 6d293b02
+sha_224(x) = ef020fa695fcba035feffb6d674ae2a361d32399bb70e502f781a5d1
+
+кількість різних значень y:101
+g = 2365
+h(g) = 5bfe0a959052504b5ee0ee05fe5915e50862f933da078d9ea0efd931
+x = 6d297fda
+sha_224(x) = e425fd94af47fc1e8dab0b3548b5ebfdab0a4a4e40daaa993cc9d931
+
+кількість різних значень y:55
+g = 1e33
+h(g) = d82c615a056ac771834c9ec89187bd685b665df749a27f8e8fc60d4c
+x = 6d29903a
+sha_224(x) = 9fc56c4795385ac23402c0fec62ef1e82440b6c145fe8e2ae4680d4c
+
+кількість різних значень y:46
+g = 7166
+h(g) = 4343c78f5887b671cf89cf57eed322ab3c573df63cf377da92010042
+x = 6d29e373
+sha_224(x) = df0b67bef535ae4d8a90410d38e4a5ed6ce16c24947b7489dcaa0042
+
+кількість різних значень y:63
+RESULTS:
+K: 128; L: 128
+кількість успіхів 21
+0.21%
+Process finished with exit code 0

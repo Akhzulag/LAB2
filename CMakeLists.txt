@@ -10,7 +10,7 @@ find_package(OpenSSL REQUIRED)
 set(CMAKE_C_COMPILER /opt/homebrew/opt/llvm/bin/clang)
 set(CMAKE_CXX_COMPILER /opt/homebrew/opt/llvm/bin/clang++)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fopenmp")
-add_executable(LAB2 main.cpp)
+add_executable(LAB2 type2.cpp)
 
 # Link against OpenSSL
 target_link_libraries(LAB2 PRIVATE OpenSSL::SSL OpenSSL::Crypto omp)
