@@ -1,0 +1,1169 @@
+/Users/akhzulag/Desktop/KPI/4grade/1s/HASHLABS/LAB2/cmake-build-debug/LAB2
+K: 1048576; L: 1024Time taken by function: 55546262 0.925771 microseconds
+TABLE BUILDED
+g = 9e0a3e03
+h(g) = 5c291879d1ed5cfaf325a492ce8ceccfe992560b8b5673df5904d8c5
+x = 4bbdbbdfa4df247abee7791b236cd488
+sha_224(x) = 4b96edd747bf15ad04aabac0537cdcc54b195af5eaea9a2c5904d8c5
+
+кількість різних значень y:796
+g = fe60ff60
+h(g) = a713113d189e927721f6cbd1f8fad985a7c7cd6c27f456cf9d898d37
+x = 4bbdbbdfa4df247abee7791bd3e40e11
+sha_224(x) = f2edefdc15ab3322b174abe85546e2407b45365f4fb2a12e9d898d37
+
+кількість різних значень y:806
+g = 40b03857
+h(g) = ea202594de975938f8ae1907000c115d44f3ee2e10eb5ab422f4d182
+x = 4bbdbbdfa4df247abee7791b01356b14
+sha_224(x) = bcf395a756160bc593f489673e556541bb488ba8beb1c5b522f4d182
+
+кількість різних значень y:1
+g = 151bdb4d
+h(g) = 0c7b25d9b86e9147dacae2dc04fb9d08e442a275b98b22617374f1fa
+x = 4bbdbbdfa4df247abee7791b4bd1f225
+sha_224(x) = e87732f5ecbf2478e3a2a21fc80b5deb05fc5a25b352c1ef7374f1fa
+
+кількість різних значень y:141
+g = 7be191e3
+h(g) = b36f4ac0dc045f25ab003907f313146fa5ad3611189dda0d9dad2b65
+x = 4bbdbbdfa4df247abee7791b98f84333
+sha_224(x) = a80fd30dd840724861459175303350129cf272e71d42a3a89dad2b65
+
+кількість різних значень y:27
+g = 9c7f6ede
+h(g) = 16dca01feeb1220760fa2111a0a41d3876d765d70347ffb4bc573416
+x = 4bbdbbdfa4df247abee7791b3ef5c6bf
+sha_224(x) = e56f7b6658f138f08465703ecd877a2727716e69154b55b0bc573416
+
+кількість різних значень y:7
+g = 77dc4921
+h(g) = 8b8d88155e945f968f8cc5cd49218b2cb8f430481c59485b8b544125
+x = 4bbdbbdfa4df247abee7791b28364f50
+sha_224(x) = f5c1ec4a64795313f81384d66e4d1a9f4f718fe078c316a38b544125
+
+кількість різних значень y:731
+g = 003c1e56
+h(g) = cc7ba23405fab7df023d343da152d4f0ea589a2e1ef1e452c2fd3d4f
+x = 4bbdbbdfa4df247abee7791bfa5f7d6a
+sha_224(x) = 160a9e6620474d9489dce8073cf1cc34b0f5397d1fe31b3ac2fd3d4f
+
+кількість різних значень y:629
+g = 8ea2703f
+h(g) = bf58f110fd742b76cc76af939b4a2d50a82d66c0ec65ce42a5bd50e7
+x = 4bbdbbdfa4df247abee7791b2edb77bb
+sha_224(x) = 3de267e741d46ebf049163d192d5acf7fa5402320c67d50ea5bd50e7
+
+кількість різних значень y:412
+g = dcaa1f8a
+h(g) = 28efa9dc75821f6f85f9a6d3fe7333c31fde03b67150310687412e1f
+x = 4bbdbbdfa4df247abee7791bcdc23d46
+sha_224(x) = dbc706fd3ef5f529f1216ca72133385a156fed0ef447fc3187412e1f
+
+кількість різних значень y:57
+g = 9350db25
+h(g) = 4252592867f02ca22ce4001b2d57335a0f6e0548aeb0b4d37e9dc742
+x = 4bbdbbdfa4df247abee7791b2c5502d6
+sha_224(x) = c3ea621423c273100bf8ebb3b54df249c3fe5107f4df109a7e9dc742
+
+кількість різних значень y:22
+g = f98d7d7b
+h(g) = 36d4436db1dc90daf5332d56b8689163e82aac5b4edb00ef06bc3a1b
+x = 4bbdbbdfa4df247abee7791bb96be28e
+sha_224(x) = ca11a9927a3a05a87ad3a3db2e7c425f9de709942739f1b706bc3a1b
+
+кількість різних значень y:368
+g = d1c5cd4a
+h(g) = 9f28972e6640bfcd340570de264bbf48237a82c616d58a11af2c6141
+x = 4bbdbbdfa4df247abee7791b4b8f6020
+sha_224(x) = 6e2b1dd89bc456483feeb8d680565a0cb0a45a46a1a2cb74af2c6141
+
+кількість різних значень y:38
+g = 5adcfad6
+h(g) = 3fa9a6cb5352d7aaae7087e84f82eb57d740a32bad587052f1f496c6
+x = 4bbdbbdfa4df247abee7791b6e215049
+sha_224(x) = 1c7c4832d08d8217272a8bf17e68027d5fa9754fe262b97cf1f496c6
+
+кількість різних значень y:251
+g = f502a773
+h(g) = d823cc806c5db638c0f15b03d8c6189c63d67ee4910064d4deb1371f
+x = 4bbdbbdfa4df247abee7791b58434043
+sha_224(x) = c8b8ad54b8b4d260a4492cdc43f4bc63c70b0792ac1c682cdeb1371f
+
+кількість різних значень y:3
+g = 3aa12393
+h(g) = a3fb572bbc389cb0a68068907652f915342bb2ce0776783d0bf0649d
+x = 4bbdbbdfa4df247abee7791b1cd6f831
+sha_224(x) = 07746dae4e045bb6f88d69141b3162ff78d706e91cb317330bf0649d
+
+кількість різних значень y:3
+g = 34a5441d
+h(g) = 389f2198cd5fd48ad0f7930d46b9477ab3499d09e5fc6290b8d8125f
+x = 4bbdbbdfa4df247abee7791b97ced919
+sha_224(x) = 6243ae706cf137f6d1e59b60d287f7cb16d512464a1ec5a5b8d8125f
+
+кількість різних значень y:996
+g = 64534f16
+h(g) = 78e4c7e193cbcaa06790aa02ca3c4c1d8e5a59e62916256e17405248
+x = 4bbdbbdfa4df247abee7791bb6aee94f
+sha_224(x) = 45cad00c5dc3c2341ff5bac9c70d2ebf3419bb31fe2190ab17405248
+
+кількість різних значень y:6
+g = 18293d1a
+h(g) = 1311c634f95dabd617b75776230b3844d0687d1061214a28f150c779
+x = 4bbdbbdfa4df247abee7791baf211c86
+sha_224(x) = c74c351a1d6b1e71847d83b81be4f7225c0fd806d0cbee7ff150c779
+
+кількість різних значень y:14
+g = 4916b02f
+h(g) = abef1ed5ba50536c174d55a280f06fc4a7b8cd72c852d2a1ab6d3ecf
+x = 4bbdbbdfa4df247abee7791becd6e093
+sha_224(x) = 4b7b8488ae49d151d5e34d073816e89bfb66e2a06f350e7cab6d3ecf
+
+кількість різних значень y:56
+g = 113448d4
+h(g) = 43ce40ed8bbbf07041ad17b847acc0c53930ec44e5568456dbdb3d1a
+x = 4bbdbbdfa4df247abee7791b3ff53ce7
+sha_224(x) = f4bb139ccbadd614f706d3670a60bdf92f5b8b62170edf2fdbdb3d1a
+
+кількість різних значень y:1001
+g = e3476003
+h(g) = 898e088072856f0fb0bc99ca01e6f415f04356f92cd6839096aa6b02
+x = 4bbdbbdfa4df247abee7791b2414b975
+sha_224(x) = 9b6535067c9eb48f345a812f832a571207fb5fe04a29db9696aa6b02
+
+кількість різних значень y:114
+g = 09964397
+h(g) = b7616c80c690bd4f1ad63d65ad6a7c1ac2c02422472bb64aa5dd579d
+x = 4bbdbbdfa4df247abee7791b9e009f4b
+sha_224(x) = 4948f5071d444a62db97b6afbaeb4446344417a34a2dc018a5dd579d
+
+кількість різних значень y:3
+g = 4ec3cb02
+h(g) = c9f160a9e3b622d9ab7a9ae4fca50182b960d4914589f60114357dfb
+x = 4bbdbbdfa4df247abee7791b316c5782
+sha_224(x) = 4f851719fc778c66699cbb692107b2974c3cebb0ead0d96314357dfb
+
+кількість різних значень y:10
+g = 2e086651
+h(g) = 0aa366cfe82fde71ade95bd4159da31c7071871b5d8b1bf5e0479c82
+x = 4bbdbbdfa4df247abee7791ba434b543
+sha_224(x) = 2c6b72a007112e699245472a45bbda79720691cc535790cae0479c82
+
+кількість різних значень y:9
+g = 5b9e86a8
+h(g) = 9e3c86639afe71f57dc17ca8b37c00d7d6d8456928e3a797c75862b4
+x = 4bbdbbdfa4df247abee7791b7892cdb4
+sha_224(x) = 41b78d3393daa620f78701a219a20b6a380e9e1df7925dbec75862b4
+
+кількість різних значень y:661
+g = 7243a4bd
+h(g) = 8c48489f7baac30d415e0849442e4546847432a4a193755b1f2a9017
+x = 4bbdbbdfa4df247abee7791bd2c6aee2
+sha_224(x) = 7f59ac1558c0e7fc3f9ef637e911e2bc2233356b43ec832f1f2a9017
+
+кількість різних значень y:13
+g = 64040891
+h(g) = 4951ea6f476e3bfeabccaa60ebbcedf3898fb444ecb1e872e60f6f0d
+x = 4bbdbbdfa4df247abee7791b35dfc105
+sha_224(x) = 7d5b33af85fae98d6a7ab76eda518caf96e0102ad9b766cbe60f6f0d
+
+кількість різних значень y:120
+g = dcf73489
+h(g) = 2137fb2f9a38764a706d8354e7e7612a1e6f5e18a03195f2ba0319b7
+x = 4bbdbbdfa4df247abee7791bb38e56f4
+sha_224(x) = 334dde2df86cab6d6878cc782f2def50dc374f7a60e3deb9ba0319b7
+
+кількість різних значень y:62
+g = 96ea9496
+h(g) = bb7264e5728a20a30ed60e8a415f5941b9423f05f7731853291bad9c
+x = 4bbdbbdfa4df247abee7791b9a0a7b9a
+sha_224(x) = a980058e75cbaf5545b0bffadd1d57fe4d3ba295a9ead014291bad9c
+
+кількість різних значень y:6
+g = 4fc5e723
+h(g) = ba1c35e6690e85249a122eb1c3d5b9f59cf1011735aff6b6c6c2985b
+x = 4bbdbbdfa4df247abee7791b66e2fc4f
+sha_224(x) = 342dc5dbfdd6ec09f0f6388cfde2609388789ce6fbfa3314c6c2985b
+
+кількість різних значень y:860
+g = 46a6b1dc
+h(g) = 38028373b2a59a3ebfc0ff8cfcc702760d635adf2bd7497a6a586865
+x = 4bbdbbdfa4df247abee7791b37a413cd
+sha_224(x) = 996274d7ab4dfad7718f598c61043c6ee1b74efd7dc2e5eb6a586865
+
+кількість різних значень y:894
+g = eeb7359e
+h(g) = db030cfe93257138770f43be3e48280a9c2795b562fb1c3d67ca8f43
+x = 4bbdbbdfa4df247abee7791b1c605eeb
+sha_224(x) = 61ccd37d4b6ad4faf14f0eaa382c7bfec2402fd83a245f2067ca8f43
+
+кількість різних значень y:827
+Time taken by function: 723940 0.0120657 microseconds
+RESULTS:
+K: 1048576; L: 1024
+кількість успіхів 33
+0.33%
+K: 1048576; L: 2048Time taken by function: 110749343 1.84582 microseconds
+TABLE BUILDED
+g = 16bcfd8c
+h(g) = 9720bf68ebd1e4c73c20a6e367d4f31ce95c3ac8b2ade6d66deefd29
+x = 4bbdbbdfa4df247abee7791bd9603c9a
+sha_224(x) = 89789e48cfabdc83f928fae046e37ea19d73a318ba73f2ec6deefd29
+
+кількість різних значень y:1259
+g = b74395e8
+h(g) = 3e56136dec9df0668cfe0260ed797318f6cbe4ba4b72ff7ed810b962
+x = 4bbdbbdfa4df247abee7791b00600afb
+sha_224(x) = 98d3f14847778d35858e2e553447620fb5d8c72ab5207dded810b962
+
+кількість різних значень y:3
+g = 5d3e2bf7
+h(g) = dcced29679b874d07ec89f4fb07b3aca3a64f65f61d41c3f0beab352
+x = 4bbdbbdfa4df247abee7791b7fc8bcc3
+sha_224(x) = c1cf791a15dfaec149139e3a7f8857983eef23a0e3aa107e0beab352
+
+кількість різних значень y:127
+g = 49b74cbc
+h(g) = fc6355262b3509676728a1f89f5b0ca711c1ed9b98246aecab342eb9
+x = 4bbdbbdfa4df247abee7791baeab2ee9
+sha_224(x) = c1a5ec380fa276cd79b0efe43e4f896d2cfec98c9d062f11ab342eb9
+
+кількість різних значень y:117
+g = 88e24f1e
+h(g) = bc5f34e585f7de0a5da50ac2f63a7c6ba6f08547adeb775af3c90692
+x = 4bbdbbdfa4df247abee7791b23a1b088
+sha_224(x) = 70d3ba72d64224fa1c983e5a79f5290cb8fc1e2be9d1f40ef3c90692
+
+кількість різних значень y:558
+g = 7d7c3bd0
+h(g) = 6abf061eabcac561a41e7332a3a9cbd548aabb1570828ed87c48bddc
+x = 4bbdbbdfa4df247abee7791b1f3aaed3
+sha_224(x) = 47d0ab0c3cf9ad08adb059f10f6b55886ace910b3d9120067c48bddc
+
+кількість різних значень y:1022
+g = 8f3fca9f
+h(g) = e191488d8bd66589a1ea1f43e4c76c1dd72da70d61f10aea0f12cf9d
+x = 4bbdbbdfa4df247abee7791bd35d2a89
+sha_224(x) = 06576fe776315b204fba52450944511b0d55b5ebe19898bb0f12cf9d
+
+кількість різних значень y:1038
+g = b8f237b1
+h(g) = 7a585de22d9f79d9ad85472757357243198502f8e43b5a8e6cf04d6a
+x = 4bbdbbdfa4df247abee7791b937aa437
+sha_224(x) = 221503bb2a93de60f1168657b4d1081f71d06176fa6ccc166cf04d6a
+
+кількість різних значень y:2030
+g = 5b58a387
+h(g) = ba5a2c86a001d73d22ac6db8e503daacc530695240b834ddaa74d631
+x = 4bbdbbdfa4df247abee7791b92aac2c5
+sha_224(x) = 4dc915aad57e7eea4ffd371233e6f85cc0ad645bb0f7eb12aa74d631
+
+кількість різних значень y:1953
+g = 93196fae
+h(g) = 4f63d16c21a277cf1b892f18bf95c84a6bd66c33c77f9362c8492773
+x = 4bbdbbdfa4df247abee7791b91439b07
+sha_224(x) = 722474993e4db71d564017727800ca91fde918e06604f0a5c8492773
+
+кількість різних значень y:1338
+g = 448b42fe
+h(g) = d491733c55700f45e0113f2a582ba2717b4e10eb2004da541d6eaae5
+x = 4bbdbbdfa4df247abee7791b21572acb
+sha_224(x) = 11fc3f22f1c4973a218930715efe4eaf41034599a4bab5101d6eaae5
+
+кількість різних значень y:0
+g = b3887514
+h(g) = cd47b57d62ffc2f02cd556c64f71198e4250d805dceaf1b3784a73e5
+x = 4bbdbbdfa4df247abee7791b16f0bcea
+sha_224(x) = dd6cecbaa2707a32b1799c0549ef20e53b1f58e97ad1bf45784a73e5
+
+кількість різних значень y:1633
+g = 7f0ecaa3
+h(g) = 276d77c076386ba98b58385069d0d4764bced0ed35d3e1e570756443
+x = 4bbdbbdfa4df247abee7791be74cb824
+sha_224(x) = 6b975196f593bf779136e6dcf1857c6787782f0ddd0e0bbb70756443
+
+кількість різних значень y:1106
+g = 55e59bf7
+h(g) = 04f8bd90a15295188ad62e10244af028c20a354d3ad247457cb10717
+x = 4bbdbbdfa4df247abee7791b1d536698
+sha_224(x) = 31036618aafbe036d9f1ad31f8f224721dc97c7ca27131d67cb10717
+
+кількість різних значень y:759
+g = 4d3fdf10
+h(g) = 2d31e672e9351227921ae034023c3cc0f31fb0d18550d8176a6f632c
+x = 4bbdbbdfa4df247abee7791b21fd401f
+sha_224(x) = 52827ebf32567d68ec76cde10ae68fac6df43501858f0d886a6f632c
+
+кількість різних значень y:0
+g = 25e06f52
+h(g) = ad1877a23588afd6c7fddbea9745a537ced475582c9773eea50d35ed
+x = 4bbdbbdfa4df247abee7791be94a1268
+sha_224(x) = 1a87e5f6831697be92852354e9e60db93f232aaf6152e7c2a50d35ed
+
+кількість різних значень y:0
+g = b655a3e9
+h(g) = 670d835478ed67d6dda1a56082f3bcb43545d983a1a258b4953c995b
+x = 4bbdbbdfa4df247abee7791b9a6e4e19
+sha_224(x) = a8a7048e84b80931c28832b891b7ca796190b68ea2862372953c995b
+
+кількість різних значень y:35
+Time taken by function: 1706135 0.0284356 microseconds
+RESULTS:
+K: 1048576; L: 2048
+кількість успіхів 17
+0.17%
+K: 1048576; L: 4096Time taken by function: 237309099 3.95515 microseconds
+TABLE BUILDED
+g = 5a0c1a42
+h(g) = 6e426284390f63e8ffbfb88e2641117f2269d8d6d92c5fc723e315ce
+x = 4bbdbbdfa4df247abee7791b243d91bd
+sha_224(x) = f16aa2d9ece14cc8556a1cdf6b784b9a9eb6ad5efee07f6823e315ce
+
+кількість різних значень y:4
+g = b015c2cd
+h(g) = 6cd319a117ca305595947d2cc03a87fb06d546097e57269d57b7aa6b
+x = 4bbdbbdfa4df247abee7791b95dc99bc
+sha_224(x) = 5a7a0c22f2a1f250e08e5b6a063b108b2272e314909cd76557b7aa6b
+
+кількість різних значень y:1873
+g = e93dc506
+h(g) = 2dc2412599f8d85b9d947aed255ddfcbf823887fecfd81afb3aa3175
+x = 4bbdbbdfa4df247abee7791ba8996dc8
+sha_224(x) = edb59c0d095ede166683e79416fbf0bb4f6f26b39adcdd2eb3aa3175
+
+кількість різних значень y:0
+g = 0da41996
+h(g) = 08071dcadfb3d7bcd03f34c634cb75808630aff66c92af9bd1cc5c5b
+x = 4bbdbbdfa4df247abee7791b5f2fb23b
+sha_224(x) = 1c10e5423776acc0ed2056b1e0ae43f2aafe0f5a16a1d2ead1cc5c5b
+
+кількість різних значень y:0
+g = 0155e1bc
+h(g) = 74cd7f746bf83f864d1789af64fcf618cbaf2bb782cf8241f1436019
+x = 4bbdbbdfa4df247abee7791bcb7792de
+sha_224(x) = de670f7410853b3a7cb2437c148ca5381531520a98ddc7d6f1436019
+
+кількість різних значень y:1007
+g = c4d08dac
+h(g) = 4d7c380e856866584b66a7b81a0273cd3252e5ea5255e864ee20af59
+x = 4bbdbbdfa4df247abee7791baa4f9c45
+sha_224(x) = bed9c6b20795fd7a75a60b1ac5b6c7ef87ef94a68172b29fee20af59
+
+кількість різних значень y:2164
+g = f2055cc0
+h(g) = 2e8992297c20902eed61fb5c02f8e625539cae35f70151279300932b
+x = 4bbdbbdfa4df247abee7791ba9a16f7a
+sha_224(x) = f7d4c944fa7ec5bc4992222558e4987448c6df4bb4b27ebe9300932b
+
+кількість різних значень y:4
+g = 0c4358cb
+h(g) = e02a0b1d929875ccc8ee90684f650bb0783a76193c78a5e85379cf11
+x = 4bbdbbdfa4df247abee7791bc4f697ce
+sha_224(x) = 8f9ee41c87fc1a6b2fbc4220f5518de9b6dc2c93ac680e185379cf11
+
+кількість різних значень y:3744
+Time taken by function: 3110917 0.0518486 microseconds
+RESULTS:
+K: 1048576; L: 4096
+кількість успіхів 8
+0.08%
+
+Process finished with exit code 0
+
+
+row2
+/Users/akhzulag/Desktop/KPI/4grade/1s/HASHLABS/LAB2/cmake-build-debug/LAB2
+K: 4194304; L: 1024Time taken by function: 226990108 3.78317 microseconds
+TABLE BUILDED
+g = 926f570f
+h(g) = b45d0e7e03a990ae93ea78ffabad0094e5975e88c42f5f5d58ad7638
+x = 9b1246fd228a5b1179d7f4b384ff3b27
+sha_224(x) = 88366a1e8be4827664b42d66fdf0ecf77c4112580a03929858ad7638
+
+кількість різних значень y:6
+g = af5364a4
+h(g) = 4ddf0a436831855639304b7e3a50f6e09319d252d6e13e344c715dd4
+x = 9b1246fd228a5b1179d7f4b31854e9cc
+sha_224(x) = 8e8445c851aca02d0031214b71c87119908ccdf491c3e75c4c715dd4
+
+кількість різних значень y:0
+g = 502d4115
+h(g) = 61811942e3752692a02a90004f4fcc12c194998a92d9f34236712c51
+x = 9b1246fd228a5b1179d7f4b3b6c47c83
+sha_224(x) = 15c07b11ce0f731562c15316aa9c0470c0605686c93e6f7136712c51
+
+кількість різних значень y:0
+g = c7eaab39
+h(g) = d15d983cfbfccf9e0dfe9ca9656bdc41e92e2ded68dbcb1cd415501c
+x = 9b1246fd228a5b1179d7f4b39e1e9a18
+sha_224(x) = 0d46d3fc01f68212a329f7e2a718dfe5e28eb5570a3b284bd415501c
+
+кількість різних значень y:0
+g = 68c6ca13
+h(g) = bfd9b07c7c67a76c4e4f1eeecb20f4ef0141af248c559b1722169865
+x = 9b1246fd228a5b1179d7f4b3397a89b0
+sha_224(x) = 5e7e1a1e9bd06537420ad81e0d2f9c420c9db2588373962d22169865
+
+кількість різних значень y:564
+g = 7030ed2b
+h(g) = 3605ff9cc36f868b43016a763bd184ef62c81e5f4730cc2d0ee99d8d
+x = 9b1246fd228a5b1179d7f4b3012ea413
+sha_224(x) = e5679b2bd6c53aa0e6a45aecd39c8431f92bb5fa0cf16fda0ee99d8d
+
+кількість різних значень y:722
+g = 80d72fda
+h(g) = 712256ea12ab759e6e6ff06af54aa2d9178e2fa7b95a704325731a48
+x = 9b1246fd228a5b1179d7f4b3c6d8f098
+sha_224(x) = 3349f52e5c0399bfc80b986994a77543f82dbd4cdd4eddf725731a48
+
+кількість різних значень y:1
+g = 35ce95f8
+h(g) = 1b47ec6ec020293d4f37918985650fa8e836c9f633bceb786908b154
+x = 9b1246fd228a5b1179d7f4b3f61f4a33
+sha_224(x) = 6513d830bc124cbfa5ab7dae760a545dc8f9d53dadf931276908b154
+
+кількість різних значень y:233
+g = 3b9721a4
+h(g) = 3f24a93b5edc38ab44cf3990c2641d2cf29b87981dcfd25fb682509e
+x = 9b1246fd228a5b1179d7f4b39ae2570b
+sha_224(x) = 2cbc16bb6c81fe45666dd112ae81f7191ad90ede6e708f43b682509e
+
+кількість різних значень y:365
+g = c901291f
+h(g) = 5d3943a625a56d2c9a5496cea31360f040ab92255455504df1fc1598
+x = 9b1246fd228a5b1179d7f4b372b46ff2
+sha_224(x) = 55b01f33c2f4fa42e30f87d372cbd085afc9713630c92aebf1fc1598
+
+кількість різних значень y:290
+g = ac4ccc6a
+h(g) = 02dde1082f0b652369d507d34e735c7f976a15e6469b1baf9a65ea78
+x = 9b1246fd228a5b1179d7f4b3488617c9
+sha_224(x) = e20c4db23852be38e3ba31857b0a3384f653c05df906ae8c9a65ea78
+
+кількість різних значень y:2
+g = e44f0247
+h(g) = 68d731642f079c4a4272ee87555c4bc298a6ea3e7803637622467443
+x = 9b1246fd228a5b1179d7f4b3013e3c0e
+sha_224(x) = 55da861878323147211422813bebcbefa991103bb3b4fcc722467443
+
+кількість різних значень y:151
+g = e302bf82
+h(g) = be3194daf892b76f2143a41ac5e1ef2a03952a9a8ab62f1ae985651a
+x = 9b1246fd228a5b1179d7f4b3604cc7e4
+sha_224(x) = aa4f54870f89b759145c46920a6a5572307db7d836bae40be985651a
+
+кількість різних значень y:496
+g = 10b9a524
+h(g) = af5af3ef616c312e9e6233f4ba81e38fe148510aa902c30adb930bc4
+x = 9b1246fd228a5b1179d7f4b312ecab02
+sha_224(x) = e97cb570c26ca187b28f0de4ae8730bdc321933c2ef4733ddb930bc4
+
+кількість різних значень y:14
+g = 43df3e55
+h(g) = f8fdbd485ae649b6ec70109301083fa46c016badad5208e66cb2cf62
+x = 9b1246fd228a5b1179d7f4b3c7002821
+sha_224(x) = de78174155314e727ba669928585fa8d2d28fbf59c0bb6a56cb2cf62
+
+кількість різних значень y:285
+g = fcf4896d
+h(g) = 3a58b68a492110c6b9b2c05156beaa4250cd8fb08bb27eac34f1a6eb
+x = 9b1246fd228a5b1179d7f4b393dfe0da
+sha_224(x) = 682d9efde984e94ce8ff3602c316cd0650836c5e9e819a2634f1a6eb
+
+кількість різних значень y:163
+g = bdf63e4d
+h(g) = a8650ab48fb8f5301e9ba9ab1cb5781a8a75b356b814eea360b6492d
+x = 9b1246fd228a5b1179d7f4b30c5e680f
+sha_224(x) = 052745d152946aff69a9f4a03fbf23c42404ab9247bf874460b6492d
+
+кількість різних значень y:829
+g = 8b43cff9
+h(g) = 7b32d401df94952b66f630f3088dce92b37d053e71500ace110bf1cf
+x = 9b1246fd228a5b1179d7f4b396650c7e
+sha_224(x) = 78d7f14e7b7c524621cfe707e693ff9209d762fcd9f56400110bf1cf
+
+кількість різних значень y:5
+g = f248e5bb
+h(g) = d9e430066ebd2c14dc8f4c1ee353504c2ac7229f889e66ba911a1d42
+x = 9b1246fd228a5b1179d7f4b3bf6f3549
+sha_224(x) = 0a241618dea20ffc679c4427979d0f2b52916751642caab6911a1d42
+
+кількість різних значень y:320
+g = b31b8d5e
+h(g) = f93cdd164f8d95384779f58451be7f022fccd2cfa7462c9224c9e3ba
+x = 9b1246fd228a5b1179d7f4b3e09dc471
+sha_224(x) = 3ba122c4c71b13e963abfe25581fb9663ce55497ece6b0ce24c9e3ba
+
+кількість різних значень y:629
+g = ecb1f21b
+h(g) = 6951947c71e62eb3f10be1862da1a808175fff8693a2b1eec51dd516
+x = 9b1246fd228a5b1179d7f4b335e1edcb
+sha_224(x) = 2a5773cd87deeb307ba617c4e5324f40dc014d8f113c2565c51dd516
+
+кількість різних значень y:994
+g = 3d6a737a
+h(g) = 86396911129d0ed5dadbf209a6a843fcb83e8f049a456ed019bb132a
+x = 9b1246fd228a5b1179d7f4b324847759
+sha_224(x) = db608e83273903c4ec642de21f623f2ddfc87f9a90a62c8819bb132a
+
+кількість різних значень y:1
+g = 6e24ec50
+h(g) = f8d5ed153ddcaa58fe54c465b62589ea2483acd3431681ee4c00f880
+x = 9b1246fd228a5b1179d7f4b3335492b9
+sha_224(x) = ddb09f109e16e42aef5f809b954b92c987a27af2da9a8dd64c00f880
+
+кількість різних значень y:999
+g = 99ea2679
+h(g) = 1a912e104f4505729e85823259793eb496c17f79c166bfada2680217
+x = 9b1246fd228a5b1179d7f4b3de178e6f
+sha_224(x) = c40bf30ce42ccbe74960d4a1289b8826de86b3ddeebd41bfa2680217
+
+кількість різних значень y:1
+g = abcb4183
+h(g) = 30ae2863da1ee88807ba19746d1082cc01876eaf17fb19ff5a163f12
+x = 9b1246fd228a5b1179d7f4b398e60f3d
+sha_224(x) = 25053231f4cdf7a5a3783551c7c7960d09f20d327d9d91145a163f12
+
+кількість різних значень y:3
+g = 3c74bac7
+h(g) = f2f0968445a3dd159dbb9823153fe7423c59c75efdd6fc259b7aa6fe
+x = 9b1246fd228a5b1179d7f4b3a0088172
+sha_224(x) = 698b983eb84d9828c957ca5b4ac54214b0d4e7f0c5c4aee59b7aa6fe
+
+кількість різних значень y:478
+g = 5491b8d1
+h(g) = 6148de5f940c6c2053fdb58c03da695fd60955d4a0d003b83f8bd4a6
+x = 9b1246fd228a5b1179d7f4b3fd4e3417
+sha_224(x) = 59c006fa2c07151259510151668f64a647b37d4ad917d2653f8bd4a6
+
+кількість різних значень y:283
+g = c0d9342a
+h(g) = 4f2dbbc04050f6b6782a5bdfc228bc2e9d915b7b3d38700f588558d0
+x = 9b1246fd228a5b1179d7f4b361718793
+sha_224(x) = 92a05283ff8fd9ee90fdb592df9c133cab0bbb93a40452a3588558d0
+
+кількість різних значень y:614
+g = 0f7f5cd3
+h(g) = ab19a268136b9a07d294e71f7c60aa5d38da22249ff17d3d87424524
+x = 9b1246fd228a5b1179d7f4b3707ed887
+sha_224(x) = 14cccebd890edde2fc71466943080a7bbf9688fb8e2841d487424524
+
+кількість різних значень y:4
+g = 6acd4baa
+h(g) = db96614ec097a19ce17e6701aae07bdb7109e9d1169b3cd040b09c1b
+x = 9b1246fd228a5b1179d7f4b3bc3a06da
+sha_224(x) = 47fee01d024a2814b1d0475f769adfb6bed2e80be1e992b940b09c1b
+
+кількість різних значень y:5
+Time taken by function: 810277 0.0135046 microseconds
+RESULTS:
+K: 4194304; L: 1024
+кількість успіхів 30
+0.3%
+K: 4194304; L: 2048Time taken by function: 421397547 7.02329 microseconds
+TABLE BUILDED
+g = f4fac1be
+h(g) = 8217a7527ccaa355fc4b40a578fe7fce61b36e8e1e9a04361183e534
+x = 9b1246fd228a5b1179d7f4b3e69c770d
+sha_224(x) = 75519cd21d073494d484645d541758a93c5375aec0838f6e1183e534
+
+кількість різних значень y:2003
+g = 809bce0b
+h(g) = 520d211eda2b51648808eaeed9979af0adc43763f1c574df09a27d54
+x = 9b1246fd228a5b1179d7f4b3a3bcec6d
+sha_224(x) = bf0cfa6b4f35ae80c86ae440b30aa0262c0c8cebbdaba34209a27d54
+
+кількість різних значень y:1585
+g = 66c63719
+h(g) = 7e5f0b30ba44a46b05c2c2936d52b5f84e176a56299390f9c4e1787d
+x = 9b1246fd228a5b1179d7f4b369bb0998
+sha_224(x) = 3a76720846a35f01a5c4b38d4762b419d81e36a0a3b34196c4e1787d
+
+кількість різних значень y:1142
+g = a5c11be2
+h(g) = 3a58526c81813106b7f530bef6d4bf9a9994aa9db53062e868285c82
+x = 9b1246fd228a5b1179d7f4b340bff9a1
+sha_224(x) = ed69f7334c0ad9cea98ebd175f65f3d95b54dae6e569905868285c82
+
+кількість різних значень y:1118
+g = 109723bb
+h(g) = c554e935183bbe0496d3a4417b564fed99618d16c2afed34f103b63b
+x = 9b1246fd228a5b1179d7f4b36a3fcea7
+sha_224(x) = d499fc50598e0190be8fa52604390eba2d8143b358e3d914f103b63b
+
+кількість різних значень y:1597
+g = 399bf9fa
+h(g) = bb00b5e08a454cc2e691e87dde72aa9056db46bc69c9d764e09e8e46
+x = 9b1246fd228a5b1179d7f4b33de87d09
+sha_224(x) = 378ff8fd00af29aedb6f60ce23ad1d8175e1e4e9ccbbe0a6e09e8e46
+
+кількість різних значень y:1676
+g = 2791c5b9
+h(g) = cab53cd9a7bb47e6eef9a6693f74aa3c7b4de2ae29cd3a9de83c0e9c
+x = 9b1246fd228a5b1179d7f4b38537e946
+sha_224(x) = 5a41f642658ad9ca973ff44a84c1a90390941d0575383ca9e83c0e9c
+
+кількість різних значень y:0
+g = 59997dc0
+h(g) = d627d171bb7276977d1e1598222501e7c2646f7509f7bca5fb3f794c
+x = 9b1246fd228a5b1179d7f4b3d246b534
+sha_224(x) = 3302e508c1d5683232a90f93d799613af844a4c0d4f720dcfb3f794c
+
+кількість різних значень y:267
+g = 728265e5
+h(g) = 04f211ba2c046b82e098153515a9e62e4b5dfd68d0b1326ae59f3696
+x = 9b1246fd228a5b1179d7f4b38ad15e8c
+sha_224(x) = 412eb4c01eb94a9a424818bff5e3b2bf57fa5f6a5dcdbcfae59f3696
+
+кількість різних значень y:0
+g = b4b49531
+h(g) = 2b43576d8dec0323595b66ab58ff14bba38c049a1b04b2b426ce8243
+x = 9b1246fd228a5b1179d7f4b3b74ee526
+sha_224(x) = 77e3801dab264d67116f919a15ab31e32f0d52bcc84c7d4226ce8243
+
+кількість різних значень y:135
+g = 62f29835
+h(g) = cb7a6afcb21534afbea724d9fa52b672fc572cb38e0cb7acd5bfbd08
+x = 9b1246fd228a5b1179d7f4b39e3818f0
+sha_224(x) = 66df1a33c4b0bed3ae5493d293b668281995bf5306d6777fd5bfbd08
+
+кількість різних значень y:1173
+g = c753bd7d
+h(g) = b833ed194a7382f5a6389b918a2db95703372b5bafaa6dcdb266939d
+x = 9b1246fd228a5b1179d7f4b3d4ff56ac
+sha_224(x) = f8c445802f93987c7f2d49cc190af7617698281803f4f4cfb266939d
+
+кількість різних значень y:517
+g = bb429fde
+h(g) = f7d483df2f7cd9eb62f4a267e09bef61ca7671ef7b7b83ee008370db
+x = 9b1246fd228a5b1179d7f4b3a3561e3c
+sha_224(x) = 1ffabd8413a910ef65241338064f4a7e14f8fed216bafa35008370db
+
+кількість різних значень y:1679
+g = 3a6fe63e
+h(g) = 92c25265e5adbbf5f2538c41e1cd6ffd0b9b921b537ecb14e6d9634e
+x = 9b1246fd228a5b1179d7f4b3db3ff93b
+sha_224(x) = d942ba8f6d929809aa90e0bd76c574f3a2faea192d870667e6d9634e
+
+кількість різних значень y:1017
+g = d4a4c53f
+h(g) = 9abcae0336325498c75acea9c71a21a9aaeeaa1a35df6a999284a47b
+x = 9b1246fd228a5b1179d7f4b3f8c5bf00
+sha_224(x) = 2a021c1fc54d126cf3e82c10d75725927fe627ec1ebb03559284a47b
+
+кількість різних значень y:1
+g = 15c54f2e
+h(g) = f4823e315ddb79ddcf67912a8c770bc5b4455e82c1622c56df0402ae
+x = 9b1246fd228a5b1179d7f4b310e9d425
+sha_224(x) = 9313469d72270902aea1fe8859fa5f514f9c4c1e3c5d5300df0402ae
+
+кількість різних значень y:1050
+g = c1cbda38
+h(g) = bbe45578df9f4701367967d564021625520c036c54904a086e5eddc5
+x = 9b1246fd228a5b1179d7f4b371858cb3
+sha_224(x) = 575765fee39457248dde838751dec8abb02d5669643a31746e5eddc5
+
+кількість різних значень y:635
+g = 0bf04005
+h(g) = 00c8de37df656a957de9d3c8c3dbd4780f606efcc18ac97b527f6905
+x = 9b1246fd228a5b1179d7f4b3cd1a3cc9
+sha_224(x) = 637fcffa91d32b2a92035f13cc6bfc0a661cf178c55e1390527f6905
+
+кількість різних значень y:2027
+g = 93b5cc02
+h(g) = 64dfa8c1e6e907800e85aac8d9bfaa48bcb75802b5d57e95cd57a273
+x = 9b1246fd228a5b1179d7f4b3f129f634
+sha_224(x) = d26ff49c2fd5c52dfc16d277a065d8d748c437a9f649580fcd57a273
+
+кількість різних значень y:0
+g = b5283709
+h(g) = 9dccc999c985e4c7096315736852288e03e2029cf1627a18cd759236
+x = 9b1246fd228a5b1179d7f4b38894d5bf
+sha_224(x) = 1e5abff30b7db3c9df7f7014092cd7c978d6dacc2a98dbb7cd759236
+
+кількість різних значень y:0
+g = 6e47a6a7
+h(g) = 23aae6aa5e75a4f4c03ebdb80f4c3b4080ef152fd30103e3aa6f9b12
+x = 9b1246fd228a5b1179d7f4b30a6cb95c
+sha_224(x) = fbdcdb6c3f9d566adaad7eb527d900b9d915202f303fb1daaa6f9b12
+
+кількість різних значень y:1677
+g = 1d8c4ef8
+h(g) = c422512761c58a4bb03119a663f39b4ffc1fe43a4ed08eee54832cd1
+x = 9b1246fd228a5b1179d7f4b368b50749
+sha_224(x) = 04f9a3b119d7e84b0cd7fb9d5935e7bc7f24751980137d2254832cd1
+
+кількість різних значень y:1925
+g = 09893011
+h(g) = 837ee4ca834ff9d93a38435595f28f142b32825bbc9f9fb7293cc0b5
+x = 9b1246fd228a5b1179d7f4b353bf6e50
+sha_224(x) = b827806523649798cba2ec278f8d2ccfb7c6965e9ba756f5293cc0b5
+
+кількість різних значень y:0
+Time taken by function: 1553526 0.0258921 microseconds
+RESULTS:
+K: 4194304; L: 2048
+кількість успіхів 23
+0.23%
+K: 4194304; L: 4096Time taken by function: 860708337 14.3451 microseconds
+TABLE BUILDED
+g = 4e019c0b
+h(g) = eb923ea0de6f9fbf11d571bab6e0a9ae7789fabfad3e24979dc3da22
+x = 9b1246fd228a5b1179d7f4b38d064413
+sha_224(x) = 45e6c8ae43aed46750fa1031e4142e60c9aa58717d14c3719dc3da22
+
+кількість різних значень y:0
+g = 9cfbc7b8
+h(g) = 0132b4433ff9e38987ee48ae4efb656e7751383e33977a9e580b9e8b
+x = 9b1246fd228a5b1179d7f4b33a689a1e
+sha_224(x) = b7bcc159d0302e5ff34fc4036b721670c2722a005f65cdee580b9e8b
+
+кількість різних значень y:3521
+g = a091f5d0
+h(g) = 2c0606bc51a1eca120b84ef3aff0480af2e5d8a6bade18f1b25d812f
+x = 9b1246fd228a5b1179d7f4b3e21f5424
+sha_224(x) = f2fef52f55511fc5bf84a9aa9dbc7ed043258a2041a17657b25d812f
+
+кількість різних значень y:155
+g = 7f17710e
+h(g) = cd211398ccf489ead723a58bf33bfb39f080df4e67402e23f05d151d
+x = 9b1246fd228a5b1179d7f4b35adcd50b
+sha_224(x) = fd98f4073ca081f47dfebe1fa81f3399368f8191996ee2faf05d151d
+
+кількість різних значень y:2504
+g = c4a30c01
+h(g) = 54a7fe4f7dc0cbc2a608de4b6ad1a8653574b5010d6c41a2b3c46b49
+x = 9b1246fd228a5b1179d7f4b31b92617b
+sha_224(x) = dcc12c722893fffbdda350b62dd85aa9022cb05b4497fa81b3c46b49
+
+кількість різних значень y:922
+g = b534be2a
+h(g) = 048e8d28b433fd9b4a1d9e6234f368f6dae64ef4423be91034712f4c
+x = 9b1246fd228a5b1179d7f4b372f9efc9
+sha_224(x) = 299c86b3dd1f47e10f552c1f96ba56a5ee3fa78c30b4023434712f4c
+
+кількість різних значень y:2388
+Time taken by function: 2708772 0.0451462 microseconds
+RESULTS:
+K: 4194304; L: 4096
+кількість успіхів 6
+0.06%
+
+row 3
+
+/Users/akhzulag/Desktop/KPI/4grade/1s/HASHLABS/LAB2/cmake-build-debug/LAB2
+K: 16777216; L: 1024
+Time taken by function: 877989578 14.6332 microseconds
+TABLE BUILDED
+g = 790bf207
+h(g) = 28e041ef6aaffbf3d892bf9bc4783bde4b0aea0c7ddafbd17b13115e
+x = c4f02939e94fe586cd00686fd7bac2d2
+sha_224(x) = 45424140fb86fdbc8dd006ef7406257e2aa67fd9dbf737d97b13115e
+
+кількість різних значень y:380
+g = 8e27f338
+h(g) = 4e52b344ae108c49d98b4d56e9074e7003546d0077ba67e078478777
+x = c4f02939e94fe586cd00686f5611aeee
+sha_224(x) = f2f94a0bef22f9c7253a5cbac752119b87fab7aec42436a578478777
+
+кількість різних значень y:558
+g = db0a86fa
+h(g) = fca349d5ab8e88f7532ff3d8400c9aea93f706df4726b70c928c1cd0
+x = c4f02939e94fe586cd00686fd1709168
+sha_224(x) = 6ac1fd8d57bfb6ba282267854898707eaa02d86f08afb754928c1cd0
+
+кількість різних значень y:0
+g = 9766ab8e
+h(g) = 5afa96154b893b19e8f4a8cc8c9a634980ad87131bc2c8276cbee81b
+x = c4f02939e94fe586cd00686f05840176
+sha_224(x) = 61cf2fdaff7b088eaff66362385437354e48e33e2b7f3f6c6cbee81b
+
+кількість різних значень y:531
+g = ed3c132e
+h(g) = 68ebf57cb4e4f604ba72403c14b5be230083716f1c57fde5838e5d69
+x = c4f02939e94fe586cd00686f0f6f3480
+sha_224(x) = ca79c212fe030fdb18436bf38c8a8c81b255238417c59ad4838e5d69
+
+кількість різних значень y:0
+g = 6dca4f2d
+h(g) = 0bc780efe6fea1afea853375627781ba847edda4373d3a9814a611c3
+x = c4f02939e94fe586cd00686f546f88f2
+sha_224(x) = de53a27ef472ec8ad462ca8d9b2ddc1dbdee3830959c733514a611c3
+
+кількість різних значень y:924
+g = 7723d33c
+h(g) = 8f033eaebd7b909ff3b075da5c088003c99a958d603298512229fa19
+x = c4f02939e94fe586cd00686f3f7df8a4
+sha_224(x) = 1900af8f908cd5effb69ae24ae297c7bf20f4a72df94451e2229fa19
+
+кількість різних значень y:0
+g = 6cc479b6
+h(g) = 2b455c86e770f25d448137de054ff0d6e4aa7ef50cf3d9f53c0ab7dd
+x = c4f02939e94fe586cd00686f6008d398
+sha_224(x) = ea527b8c7ca03e09b194db288170e53ac8b9a0ce243572ce3c0ab7dd
+
+кількість різних значень y:251
+g = e02ef261
+h(g) = 70a9adbafe2a5e0896ccb2100c2ffa9b370e1e12b7ab9beca3425db6
+x = c4f02939e94fe586cd00686f1e5ffdb6
+sha_224(x) = bedd67a20f2b2c11c2b84308e3c7637d03350ae0d4bb63cca3425db6
+
+кількість різних значень y:0
+g = 96be7c2c
+h(g) = 841901133edfc3a3f6476047e066da3bf625c183f67dfa0f0de5b6c5
+x = c4f02939e94fe586cd00686fb396c5ae
+sha_224(x) = b2e62c76bec89e91b0b6a6641b521da2614258af0a2d7b830de5b6c5
+
+кількість різних значень y:0
+g = d1544909
+h(g) = 8102de9416fe8d743cf3b5f95f6586829b5dadb5a8518bef4ca0bff9
+x = c4f02939e94fe586cd00686fa6a45f9f
+sha_224(x) = ff8e65a169c40b2a37b55664635a0ebc5673256799f175fb4ca0bff9
+
+кількість різних значень y:235
+g = 72bcccbd
+h(g) = c0010d1afc03310feb8fdc11ea79ec3522f982be6280d5def79b3e76
+x = c4f02939e94fe586cd00686fc45281e5
+sha_224(x) = 3a3454c803b61065f89c04735d2150168cdd0d427787bc5af79b3e76
+
+кількість різних значень y:0
+g = 836db0be
+h(g) = 92b27241e5dfc37b141ffd07e301ea298f88cba786e1059b6e955d5c
+x = c4f02939e94fe586cd00686fe426dc5d
+sha_224(x) = 07fe7bf149744058f359cfbf496e38ba0f766e3197f1519e6e955d5c
+
+кількість різних значень y:527
+g = ab7235bd
+h(g) = 45b2cdb923214bac21ef187bee2c58803d6b73fa87e3c75ce8d55a66
+x = c4f02939e94fe586cd00686f692b5347
+sha_224(x) = 63a4bd1e3fe322ddb1205e9297c5213c88964515e683ccc9e8d55a66
+
+кількість різних значень y:0
+g = a7b01200
+h(g) = 32f17640f679b10f415765bf1b3ea70629230771fb93a8454e0ed2d7
+x = c4f02939e94fe586cd00686f2712f98c
+sha_224(x) = c6246785272dc4a08761a9e70b982f65626022507da0f3f34e0ed2d7
+
+кількість різних значень y:310
+g = 7028e170
+h(g) = cc3ed0ae5c67d84bb65d3cb306f74d6ce07c03f49ad839c7a50abd95
+x = c4f02939e94fe586cd00686fd6e2bfe6
+sha_224(x) = eb6eb8c6434f01ee2fa0ce2636c0e907b45aa31e575046fda50abd95
+
+кількість різних значень y:0
+g = 55f6d89f
+h(g) = e876633bce253f849f0734da542dc5c14db35edbfc3636bdaf879c09
+x = c4f02939e94fe586cd00686f93e010e0
+sha_224(x) = 316135debe8f887798254020084d807a419f710c6b03b3e1af879c09
+
+кількість різних значень y:0
+g = 59eb1f31
+h(g) = 9c527b753ba4f3085f69b2b6bc68f53e7ace702496b269dbf8a43510
+x = c4f02939e94fe586cd00686fb88a5327
+sha_224(x) = 3d894d028bd41484a573dca73a719c0d39264c381d893fc1f8a43510
+
+кількість різних значень y:757
+g = d3780a89
+h(g) = 5a4afe38f963655abacee53353d53e4583407ef2790afcf87a1da700
+x = c4f02939e94fe586cd00686fabc18357
+sha_224(x) = dce0d5e1bccd3c012a545dcb90f4be3b4c538918b61565c97a1da700
+
+кількість різних значень y:0
+g = 9ed2a845
+h(g) = dc937ba01c7599b3d25879c757168a8786a13be98868dba2d3052443
+x = c4f02939e94fe586cd00686f26c30ed6
+sha_224(x) = 71640e5e11f7d092aa588f8982105a18c083ecb3fc0abd48d3052443
+
+кількість різних значень y:326
+g = c2f47ab3
+h(g) = cf23f150fbd3f0c466343722d8f760808fc8d02e679d2ce86a6312ac
+x = c4f02939e94fe586cd00686fbf7b8597
+sha_224(x) = 28d7311512fe1609fc274e62f55b207f6e2be73ee020e1cd6a6312ac
+
+кількість різних значень y:445
+g = 8ff7262a
+h(g) = f322877ff850d89ab27f807b2618336ba7bd117adc479afaaf87ee50
+x = c4f02939e94fe586cd00686f0e61186d
+sha_224(x) = 3485119e565bab008d62fbab5b4a976682a7ef1e8b47ccdeaf87ee50
+
+кількість різних значень y:3
+g = aa28becb
+h(g) = d7d81e2aef1db4fb6ca0434ec27cd917709f674fc06b0cf786e1e4d0
+x = c4f02939e94fe586cd00686fd6e44fce
+sha_224(x) = 86ca288218dd47ff13a5250b44418d3bccd089947fd8ccb386e1e4d0
+
+кількість різних значень y:586
+g = f972f897
+h(g) = f0825c30e4da72cc144ec59b3bc31952870741cb0d50898939b0ce55
+x = c4f02939e94fe586cd00686fa7f94609
+sha_224(x) = 97ce21f308a98eaec87bbe1d3e73b2666e2d161e45f78d5639b0ce55
+
+кількість різних значень y:0
+g = b1234d56
+h(g) = 9d5400e801d7d0aa6ff94dffd15db226e3012dbd45d30a48a10fc914
+x = c4f02939e94fe586cd00686fa273cfc4
+sha_224(x) = bb51c165c4d1f949bd286b91253a4fa948e9576519b11460a10fc914
+
+кількість різних значень y:0
+g = fe32ca38
+h(g) = c91a99ede9b478f07415379e7960e5c2619ca62d4bf22e83ee602bd6
+x = c4f02939e94fe586cd00686fbddc88b0
+sha_224(x) = 828838c7059dfbc694b661840a2f12293d17b46241b647bdee602bd6
+
+кількість різних значень y:872
+g = b692080f
+h(g) = 44d27d380e1e1e25ae4301d36ac831d43d180994f3ca60a82f16161b
+x = c4f02939e94fe586cd00686f75bb4dc6
+sha_224(x) = 55f14a34508acbbafb5dd4f8e15f44e518f4e4e814bde9c92f16161b
+
+кількість різних значень y:1
+g = 6f53e7a4
+h(g) = a48c637d0781cfb6b84fbbce5a055e401ce954061d55a2a5502ebf20
+x = c4f02939e94fe586cd00686fbd086630
+sha_224(x) = 09a02bf6bd0437e525455a7cb7be82d0e80529d26b376836502ebf20
+
+кількість різних значень y:562
+g = ac7b4ab2
+h(g) = 4f3289fdcd06aea4ed94683eb41984bead97b036aa5eddb89104dc4c
+x = c4f02939e94fe586cd00686f607cec21
+sha_224(x) = 5c97ecb66a08c5cf36ee9046d56f11d23383a9ce0e6f1ac29104dc4c
+
+кількість різних значень y:923
+g = c65645e7
+h(g) = 9d8e603b87ac33961a1bb138c8912797b2464a995be33af28c0716db
+x = c4f02939e94fe586cd00686fdf162b07
+sha_224(x) = 3d7e130afe2ba037392c16fe73679e884d812707c64806898c0716db
+
+кількість різних значень y:0
+g = bb6e8c0e
+h(g) = 4eff774174e7810b5b666b0b7797d2118fb651720e441571b49847fa
+x = c4f02939e94fe586cd00686f82db9f1e
+sha_224(x) = 7286ff9bcf1b594e5c2849770d95ee102625f2f46a1d1facb49847fa
+
+кількість різних значень y:35
+g = 06e7e297
+h(g) = a87473d4e50a9bb92fcda2f1ee613e5a500dfb659eb3ad5440d86cea
+x = c4f02939e94fe586cd00686f0e515a57
+sha_224(x) = cc992fc83db5cd338d7fa8a35feaf523c49ff9a4f3b9229540d86cea
+
+кількість різних значень y:99
+g = ef74aacc
+h(g) = 93bd6f6f432f17140dba59d72e77c40ec7489f25c9741e6d69631f8a
+x = c4f02939e94fe586cd00686f9ec27ad2
+sha_224(x) = f97e787653ea8b5b1e53c2d61ef29a322520fe9a474127a869631f8a
+
+кількість різних значень y:839
+g = 41dfad53
+h(g) = f108285d90f606332255b3da249c6a3137fd81fc4955ca4526a1f461
+x = c4f02939e94fe586cd00686f1717fee0
+sha_224(x) = 93d45704d8da3cfd0f19323bfeece7d58bf3581ef4b4850626a1f461
+
+кількість різних значень y:0
+g = af0d2aa4
+h(g) = d0f1865ed8eff1bc540dbf775d491da155db8fdc8cc62164da5b028d
+x = c4f02939e94fe586cd00686f1a240783
+sha_224(x) = d2562209c8713e55122ba47445be1f58bfa8ba40baac2fefda5b028d
+
+кількість різних значень y:2
+g = f9edd2f9
+h(g) = a3a4fe29b0af96b06dc1727b3d3aa42dc80a9c36cfddd41afc79941d
+x = c4f02939e94fe586cd00686f389addf9
+sha_224(x) = 1b203c89f105da04709e8bdcb531cba3dd18f31323083135fc79941d
+
+кількість різних значень y:0
+g = 308340b1
+h(g) = e9316c3f5ec21b8f2d44f02e87456b80ea3e3b43f18cac193b6e3ff1
+x = c4f02939e94fe586cd00686fa9644b19
+sha_224(x) = b87a7453724482470e8eabffc3b00e5d3464f27ee00eb2ce3b6e3ff1
+
+кількість різних значень y:0
+g = 3fcd80dc
+h(g) = 0e3f344d9668fa137923cccb3d1462226c750b70f7e69b84f6335674
+x = c4f02939e94fe586cd00686fa2d6f685
+sha_224(x) = 581fd15aaa2dcb2ae236f0dc07f29cabffeb98524a68b168f6335674
+
+кількість різних значень y:0
+g = 518fe555
+h(g) = 1c3aae17789611ddccd51c276f4c7cc34403d59daea6b09a109154cf
+x = c4f02939e94fe586cd00686fb1b59be7
+sha_224(x) = 43c5433ff8a65151e520b2846e9c681f4752c90cdca76d46109154cf
+
+кількість різних значень y:0
+g = 8946da6e
+h(g) = 98fcc580e535b74e3c84924de449599df260e5dff3989493db89f7c9
+x = c4f02939e94fe586cd00686f17de20e3
+sha_224(x) = 6e08da9420559037bf9739a5e6594afc01b5ef7092828217db89f7c9
+
+кількість різних значень y:648
+g = 0224764d
+h(g) = 9c8cb0324e7a32e5f64104289247f102486e53588c56075790f7ef7a
+x = c4f02939e94fe586cd00686f658b1304
+sha_224(x) = ac929a60ccbe87c9caada239983b35342031a9f6261a840d90f7ef7a
+
+кількість різних значень y:647
+g = c3223ea7
+h(g) = b6d73a53957d7c814a74a766f19025b216b0b58eb6cf2f2b0c6ed0de
+x = c4f02939e94fe586cd00686f3874eef5
+sha_224(x) = db190cd7edf8637c9d2f812f3212630136a51490ca0cafcd0c6ed0de
+
+кількість різних значень y:0
+g = 5ddf839e
+h(g) = 98832960697bb78464f3eec437930cc62e4757e1dc2ba537ca1346b7
+x = c4f02939e94fe586cd00686f3fc56bc9
+sha_224(x) = 3bef971fa568fe1fb2a978f3751da6c2f57bad61cc9fa27eca1346b7
+
+кількість різних значень y:583
+g = 875847a0
+h(g) = 8fb45458fdbd06144ddbaf66ba4a2c32224789162b7cf4846e6e9713
+x = c4f02939e94fe586cd00686f187a2b8a
+sha_224(x) = 7835abd3c72c1077162e97268aaae627b3876580952bf4a56e6e9713
+
+кількість різних значень y:409
+Time taken by function: 739914 0.0123319 microseconds
+RESULTS:
+K: 16777216; L: 1024
+кількість успіхів 44
+0.44%
+K: 16777216; L: 2048
+Time taken by function: 1658890724 27.6482 microseconds
+TABLE BUILDED
+g = 5261fed5
+h(g) = 368ee3c1b3a95a83f7fff210c226a793fd8d5cf63e5f051a9666efa5
+x = c4f02939e94fe586cd00686f5083b4c1
+sha_224(x) = 90e2bfe7e5f25130cd0b04716d2b1f8509c258b0cf6f45a09666efa5
+
+кількість різних значень y:2031
+g = 752773ab
+h(g) = 447e6be1051a7878fa62c9dbddcff67faa5324073e557ea2997cebaa
+x = c4f02939e94fe586cd00686f81f463cd
+sha_224(x) = 43a002b0aab3ad1ef08d8fc8a56bd3dcf8dfb0f8cffd9134997cebaa
+
+кількість різних значень y:122
+g = 1480253e
+h(g) = c968af19bc059322e57f8495618f44cdb50d590b9ceff20c4e5f3247
+x = c4f02939e94fe586cd00686fefdee333
+sha_224(x) = 761975714087d0152c815ebbd152395ff9f9c9a892d5cb214e5f3247
+
+кількість різних значень y:1655
+g = 03001f74
+h(g) = 89a5925b237ff06903bf939bbcf604d64062d680a7cf44c209d6cd57
+x = c4f02939e94fe586cd00686f31b8e6fa
+sha_224(x) = 91a38a7d5e3af06e64c0f6925ac36af5aa81b697688cd11209d6cd57
+
+кількість різних значень y:650
+g = cdc188f9
+h(g) = 5b6f74b00a3cd282290248b739317b46b37c6a2ff2bc9a6ed01f78f2
+x = c4f02939e94fe586cd00686ffd2612ff
+sha_224(x) = 39867a50fdaace8864190a3090abc3523a1d9d4b2d613af0d01f78f2
+
+кількість різних значень y:1328
+g = b33b3cf3
+h(g) = a0cca12c450d7a82ba387a9110b680475a88a3391d20093b621a8d61
+x = c4f02939e94fe586cd00686ff384df39
+sha_224(x) = d5ca2af021a82ebfea4aa1c29ce88393eeef4982c1057cb9621a8d61
+
+кількість різних значень y:1
+g = c43866d1
+h(g) = 81489c5fe60f5cd3ba2980f834757a617b338f58bf9328c1d2771a76
+x = c4f02939e94fe586cd00686f0314e30e
+sha_224(x) = 2a3f28d3299ccc3b4abd993059cce26292e362eb9017bc79d2771a76
+
+кількість різних значень y:8
+g = aa6c2ea8
+h(g) = 8b2a0144fcddc7275690c45c6c96044349169aa3bceaed23c2f20570
+x = c4f02939e94fe586cd00686f7ff673ad
+sha_224(x) = cc71f817d1100f772dea417e370fe67c6d17aefe59ca5ed1c2f20570
+
+кількість різних значень y:1621
+g = 91108626
+h(g) = 270b0654ec4cc877457f1fc07a95f4f185d45a48c1098da7a34020a0
+x = c4f02939e94fe586cd00686fc760b1c6
+sha_224(x) = 7dce5c39365c952f3358d869b1601030c72e50346da27e79a34020a0
+
+кількість різних значень y:1985
+g = 31241c41
+h(g) = 635b5a607a8a187449c7342b67b2d712150837382f95d89c642c198a
+x = c4f02939e94fe586cd00686fe7a9bd03
+sha_224(x) = c8b65d9f928a1e439b2412b72bf39a79b5a2999994884788642c198a
+
+кількість різних значень y:1
+g = 9aefdd16
+h(g) = 237cc7baa29e5dc2a7352cd268c828ad08318102cf3ff551c0f5d8af
+x = c4f02939e94fe586cd00686f1e5366a8
+sha_224(x) = 78f2c0ebf7215e0b32ed9c9b6d85160bbd3c837597dbce62c0f5d8af
+
+кількість різних значень y:0
+g = 14bdeedf
+h(g) = d74db781079c2fd2ef74a8de404cf46319d0b9f5303ef74fa411dd24
+x = c4f02939e94fe586cd00686f311cff9b
+sha_224(x) = 7b5a2d8ac241750ef6ab6f2e513a7c9034d104430d5d8acda411dd24
+
+кількість різних значень y:0
+g = 8bc4ddbc
+h(g) = 55e839d4e2a6bb4a8f71c495ddf3686b0993b34458f94abed6beb873
+x = c4f02939e94fe586cd00686f7cfe2044
+sha_224(x) = 648960e7681ecb7a9ce53700c6cb0bbf59992be07b2549ecd6beb873
+
+кількість різних значень y:2
+g = 12a92675
+h(g) = eae64dd26ade69dc2255184dc6b11a6889dbf63c7c295d3e0f23005c
+x = c4f02939e94fe586cd00686f9ddf1ec7
+sha_224(x) = 8e1793b69deacda0ac3efd43ab97cc86d9b56de3ad28cba60f23005c
+
+кількість різних значень y:0
+g = d1c4c139
+h(g) = 2b3d7bc86b8b1a4b23bf76919616a96efc3a2cc77176cd6a9dfa1663
+x = c4f02939e94fe586cd00686f962d00f2
+sha_224(x) = 4e1686c103e5e5e53f18b1dd3a80cb519dacbe3669bba8209dfa1663
+
+кількість різних значень y:1
+g = ef928872
+h(g) = 2bea661ff585ca0a848df5e025820ff53025a200353cf95f9d25fb2b
+x = c4f02939e94fe586cd00686f509da8cc
+sha_224(x) = 5f34410c7e97a929524af966a1f42dd081663db1aa7b2fd49d25fb2b
+
+кількість різних значень y:0
+Time taken by function: 1605895 0.0267649 microseconds
+RESULTS:
+K: 16777216; L: 2048
+кількість успіхів 16
+0.16%
+K: 16777216; L: 4096
+ Time taken by function: 3236887719 53.9481 microseconds
+TABLE BUILDED
+g = ecf61c5b
+h(g) = 21db3793551bc5f3473500db4825478cddff34e79ab10b34bb0d59e0
+x = c4f02939e94fe586cd00686fd65dc906
+sha_224(x) = 548921f5f47561b54fdcb21ffdf9ee15196885fbb8749c8fbb0d59e0
+
+кількість різних значень y:2313
+g = a33ad4a6
+h(g) = 70e5efcfe1a30a3a249106abea4c250d8d006e0b05c1d012552a571a
+x = c4f02939e94fe586cd00686f659ecce1
+sha_224(x) = 5d6604b4c25e2b9d8235bf17a5959f76ad07619c65896d57552a571a
+
+кількість різних значень y:0
+g = 06688d82
+h(g) = 19f38e8cb6b5ba607bae5b7c1c3ad49eb77969ba70ba6336e7537825
+x = c4f02939e94fe586cd00686f542d5b2d
+sha_224(x) = 4f04c2023778911998faf7b3e410bef8d1b01e340a01d6f7e7537825
+
+кількість різних значень y:1310
+g = a88a4bdf
+h(g) = 48dd3f30aa58e6024bf4b2a6c4ea70a782ec45e1bd948c71c08ae296
+x = c4f02939e94fe586cd00686fc1c74588
+sha_224(x) = bb4f006710513d1dc44289fde2c1e03a97c6e7324e6749a6c08ae296
+
+кількість різних значень y:2012
+g = a8646120
+h(g) = 7ad4dcd6ad0d807cc0fe34cf3af278bed0414b9f1d87ff58bd487e1f
+x = c4f02939e94fe586cd00686f6846ff94
+sha_224(x) = c8efdd51369e6bd9e6979bd092f225c457d3e4d63b94a0cabd487e1f
+
+кількість різних значень y:0
+Time taken by function: 2582593 0.0430432 microseconds
+RESULTS:
+K: 16777216; L: 4096
+кількість успіхів 5
+0.05%
